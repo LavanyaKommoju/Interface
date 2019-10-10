@@ -1,0 +1,14 @@
+﻿<Configuration>
+  <PollIntervalSeconds>15</PollIntervalSeconds>
+  <MQServerName>uppco93.ingrnet.com</MQServerName>
+  <MQChannel>CHANNEL1</MQChannel>
+  <MQPort>1420</MQPort>
+  <MQQueueMgr>QMPrimary</MQQueueMgr>
+  <MQUsername>nlkommoj</MQUsername>
+  <MQPassword>KDhruvan#7702140404</MQPassword>
+  <RequestQueueName>AMIQueueIn</RequestQueueName>
+  <ResponseQueueName>AMIQueueOut</ResponseQueueName>
+  <Username>test</Username>
+  <Password>test</Password>
+  <Url>http://uppco93:8080/MultispeakTranslator/MultiSpeakService.svc</Url>
+</Configuration>

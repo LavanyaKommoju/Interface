@@ -1,0 +1,9 @@
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\bin\MQHelper.xml
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\bin\Uppco.Multispeak.Interfaces.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\bin\Uppco.Multispeak.Interfaces.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\bin\log4net.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\bin\MessageBroker.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\bin\MessageBroker.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\obj\Release\Uppco.Multispeak.Interfaces.csprojResolveAssemblyReference.cache
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\obj\Release\Uppco.Multispeak.Interfaces.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\Uppco.Multispeak.Interfaces\obj\Release\Uppco.Multispeak.Interfaces.pdb

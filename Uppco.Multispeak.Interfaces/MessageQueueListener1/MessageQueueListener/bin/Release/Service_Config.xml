@@ -1,0 +1,5 @@
+﻿<Config>
+  <Username>test</Username>
+  <Password>test</Password>
+  <Url>http://amiheadendtest/axis2/services/MAS.MASSoap/</Url>
+</Config> 

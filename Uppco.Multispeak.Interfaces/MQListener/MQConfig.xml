@@ -1,0 +1,17 @@
+﻿<Configuration>
+  <PollIntervalSeconds>15</PollIntervalSeconds>
+  <MQServerName>uppco93.ingrnet.com</MQServerName>
+  <MQChannel>CHANNEL1</MQChannel>
+  <MQPort>1420</MQPort>
+  <MQQueueMgr>QMPrimary</MQQueueMgr>
+  <RequestQueueName>AMIQueueIn</RequestQueueName>
+  <ResponseQueueName>AMIQueueOut</ResponseQueueName>
+  <Username>test</Username>
+  <Password>test</Password>
+  <Url></Url>
+  <TimeoutSeconds>240</TimeoutSeconds>
+  <Asynchronous>true</Asynchronous>
+</Configuration>
+
+  
+

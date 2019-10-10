@@ -1,0 +1,6 @@
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MQListener\bin\Debug\MQListener.exe.config
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MQListener\bin\Debug\MQListener.exe
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MQListener\bin\Debug\MQListener.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MQListener\obj\Debug\MQListener.csprojResolveAssemblyReference.cache
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MQListener\obj\Debug\MQListener.exe
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MQListener\obj\Debug\MQListener.pdb

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/UppcoMultispeak" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Lavanya\\Interface\\Uppco\.Multispeak\.Interfaces\\Uppco\.Multispeak\.Interfaces\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Lavanya\\Interface\\Uppco\.Multispeak\.Interfaces\\Uppco\.Multispeak\.Interfaces\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

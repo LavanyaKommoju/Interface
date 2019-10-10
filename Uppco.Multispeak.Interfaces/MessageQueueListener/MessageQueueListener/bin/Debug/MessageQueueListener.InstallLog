@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.InstallLog
+   assemblypath = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe assembly.
+Committing assembly 'C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.InstallLog
+   assemblypath = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.InstallLog
+   assemblypath = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe assembly.
+Committing assembly 'C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.InstallLog
+   assemblypath = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.InstallLog
+   assemblypath = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe
+Installing service MQ Listener...
+Service MQ Listener has been successfully installed.
+Creating EventLog source MQ Listener in log Application...
+Committing assembly 'C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.InstallLog
+   assemblypath = C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener\MessageQueueListener\bin\Debug\MessageQueueListener.exe

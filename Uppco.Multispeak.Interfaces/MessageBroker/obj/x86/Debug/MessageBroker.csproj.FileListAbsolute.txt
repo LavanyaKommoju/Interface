@@ -1,0 +1,13 @@
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Debug\MQHelper.xml
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Debug\MessageBroker.dll.config
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Debug\MessageBroker.dll
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Debug\MessageBroker.pdb
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Debug\log4net.dll
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Debug\MultiSpeak.dll
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Debug\MultiSpeak.pdb
+C:\power\Source\AMI Interface\MessageBroker\obj\x86\Debug\MessageBroker.csprojResolveAssemblyReference.cache
+C:\power\Source\AMI Interface\MessageBroker\obj\x86\Debug\MessageBroker.dll
+C:\power\Source\AMI Interface\MessageBroker\obj\x86\Debug\MessageBroker.pdb
+C:\Lavanya\AMI Interface\MessageBroker\obj\x86\Debug\MessageBroker.csprojResolveAssemblyReference.cache
+C:\Lavanya\AMI Interface\MessageBroker\obj\x86\Debug\MessageBroker.dll
+C:\Lavanya\AMI Interface\MessageBroker\obj\x86\Debug\MessageBroker.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <MQSettings>
+    <MQConnection Key="MqListenerConnectionKey" Port="1420" Host="UPPCO93" QueueManager="QMPrimary" Channel="CHANNEL1" RequestQueue="AMIQueueIn" ResponseQueue="AMIQueueOut" Username="nlkommoj" Password="KDhruvan#7702140404"/>
+    <MQConnection Key="LastGaspService" Host="10.1.85.224" QueueManager="DEV.QMGR2" Channel="CHANNEL1" RequestQueue="AMI.LASTGASP.REQ2" ResponseQueue="" />
+  </MQSettings>
+</Settings>
+<!--<Configuration>
+  <PollIntervalSeconds>15</PollIntervalSeconds>
+  <MQServerName>uppco93.ingrnet.com</MQServerName>
+  <MQChannel>CHANNEL1</MQChannel>
+  <MQPort>1420</MQPort>
+  <MQQueueMgr>QMPrimary</MQQueueMgr>
+  <MQUsername>nlkommoj</MQUsername>
+  <MQPassword>KDhruvan#7702140404</MQPassword>
+  <RequestQueueName>AMIQueueIn</RequestQueueName>
+  <ResponseQueueName>AMIQueueOut</ResponseQueueName>
+  <Username>test</Username>
+  <Password>test</Password>
+  <Url>http://uppco93:8080/MultispeakTranslator/MultiSpeakService.svc</Url>
+</Configuration>-->

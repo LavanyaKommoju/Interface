@@ -1,0 +1,13 @@
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\MessageQueueListener.exe.config
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\obj\Debug\MessageQueueListener.exe
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\obj\Debug\MessageQueueListener.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\MessageQueueListener.exe
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\MessageQueueListener.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\log4net.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\MessageBroker.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\Uppco.Multispeak.Interfaces.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\MessageBroker.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\bin\Debug\Uppco.Multispeak.Interfaces.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\obj\Debug\MessageQueueListener1.csprojResolveAssemblyReference.cache
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\obj\Debug\MessageQueueListener.ListenerInstaller.resources
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageQueueListener1\MessageQueueListener\obj\Debug\MessageQueueListener1.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\bin\Release\MQHelper.xml
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\bin\Release\MessageBroker.dll.config
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\bin\Release\MessageBroker.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\bin\Release\MessageBroker.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\bin\Release\log4net.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\obj\Release\MessageBroker.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\obj\Release\MessageBroker.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\MessageBroker\obj\Release\MessageBroker.csprojResolveAssemblyReference.cache

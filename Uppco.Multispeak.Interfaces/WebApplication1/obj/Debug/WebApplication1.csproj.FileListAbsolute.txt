@@ -1,0 +1,17 @@
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\csc.exe
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\vbc.exe
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\WebApplication1.dll.config
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\WebApplication1.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\bin\WebApplication1.pdb
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\obj\Debug\WebApplication1.dll
+D:\svn\UPPCO93\Sowmya\InterfaceProject\Uppco.Multispeak.Interfaces\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:lus="http://www.lus.org" targetNamespace="http://www.lus.org" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xsd:simpleType name="Verb">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="GET"/>
+      <xsd:enumeration value="REPLY"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="Noun">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="MeterStatusData"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ReplyCode">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="0.0" id="NoErrors">
+        <xsd:annotation>
+          <xsd:documentation>No Errors (but some meters may be off)</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="2.4">
+        <xsd:annotation>
+          <xsd:documentation>Invalid meter number(s)</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="3.1">
+        <xsd:annotation>
+          <xsd:documentation>Too many meters in request</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="4.1">
+        <xsd:annotation>
+          <xsd:documentation>Request timed out</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="5.2">
+        <xsd:annotation>
+          <xsd:documentation>Unable to process the request; transaction not attempted</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="5.3">
+        <xsd:annotation>
+          <xsd:documentation>Unable to process the request; transaction attempted and failed</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="category">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="6.20.18.18">
+        <xsd:annotation>
+          <xsd:documentation>Ping meter request</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="6.20.17.90">
+        <xsd:annotation>
+          <xsd:documentation>Meter is on</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="6.20.17.185">
+        <xsd:annotation>
+          <xsd:documentation>Meter is off</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="6.20.17.79">
+        <xsd:annotation>
+          <xsd:documentation>Meter status could not be determined</xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>      
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:element name="Message">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Header">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="Verb" type="lus:Verb" />
+              <xsd:element name="Noun" type="lus:Noun" />
+              <xsd:element name="Timestamp" type="xsd:dateTime" />
+              <xsd:element name="RespondByTimestamp" type="xsd:dateTime" />
+              <xsd:element name="CorrelationID" type="xsd:string" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+        <xsd:element name="Reply">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="ReplyCode" type="lus:ReplyCode" />              
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+        <xsd:element name="Payload">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="EndDeviceEvents">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element maxOccurs="unbounded" minOccurs="0" name="EndDeviceEvent">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element name="category" type="lus:category" />
+                          <xsd:element name="createdDateTime" type="xsd:dateTime" />
+                          <xsd:element name="description" type="xsd:string" />
+                          <xsd:element name="Assets">
+                            <xsd:complexType>
+                              <xsd:sequence>
+                                <xsd:element maxOccurs="unbounded" minOccurs="0" name="mRID" type="xsd:string" />
+                              </xsd:sequence>
+                            </xsd:complexType>
+                          </xsd:element>
+                        </xsd:sequence>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

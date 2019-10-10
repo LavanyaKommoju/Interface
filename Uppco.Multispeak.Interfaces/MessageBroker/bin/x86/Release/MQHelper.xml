@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <MQSettings>
+    <MQConnection Key="LastGaspService" Host="10.1.85.223" QueueManager="DEV.QMGR1" Channel="CHANNEL1" RequestQueue="AMI.LASTGASP.REQ1" ResponseQueue="" />
+    <MQConnection Key="LastGaspService" Host="10.1.85.224" QueueManager="DEV.QMGR2" Channel="CHANNEL1" RequestQueue="AMI.LASTGASP.REQ2" ResponseQueue="" />
+  </MQSettings>
+</Settings>

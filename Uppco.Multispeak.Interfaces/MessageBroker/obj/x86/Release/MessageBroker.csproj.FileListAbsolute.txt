@@ -1,0 +1,10 @@
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Release\MQHelper.xml
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Release\MessageBroker.dll.config
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Release\MessageBroker.dll
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Release\MessageBroker.pdb
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Release\log4net.dll
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Release\MultiSpeak.dll
+C:\power\Source\AMI Interface\MessageBroker\bin\x86\Release\MultiSpeak.pdb
+C:\power\Source\AMI Interface\MessageBroker\obj\x86\Release\MessageBroker.csprojResolveAssemblyReference.cache
+C:\power\Source\AMI Interface\MessageBroker\obj\x86\Release\MessageBroker.dll
+C:\power\Source\AMI Interface\MessageBroker\obj\x86\Release\MessageBroker.pdb

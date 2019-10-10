@@ -1,0 +1,5 @@
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\ServiceAuthentication\bin\Release\ServiceAuthentication.dll.config
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\ServiceAuthentication\bin\Release\ServiceAuthentication.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\ServiceAuthentication\bin\Release\ServiceAuthentication.pdb
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\ServiceAuthentication\obj\Release\ServiceAuthentication.dll
+C:\Lavanya\Interface\Uppco.Multispeak.Interfaces\ServiceAuthentication\obj\Release\ServiceAuthentication.pdb
